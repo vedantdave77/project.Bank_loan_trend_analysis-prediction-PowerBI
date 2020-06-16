@@ -1,4 +1,15 @@
 # Microsoft-Power-Bi
+
+### My Project Working Module:
+
+![](powerbi.gif)
+
+
+
+
+
+
+==================================================================================
 .
 <!-- wp:heading {"level":3} -->
 <h3><strong>Step 1: &nbsp;Business Problem</strong></h3>
@@ -366,7 +377,7 @@ Description automatically generated" class="wp-image-461"/></figure>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":462,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://vedantdave117com.files.wordpress.com/2019/12/loan-data-analysis-forecasting_15-year.png?w=1024" alt="A screenshot of a cell phone
+![](Dashboard_Photos (Jan,01,2018)/Loan_Data_Analysis (forecasting).png)
 
 Description automatically generated" class="wp-image-462"/></figure>
 <!-- /wp:image -->
