@@ -347,82 +347,25 @@
 <ul><li><strong>With loan amount 10000 CAD (medium loan payer)</strong></li><li><strong>Interest rate 4 percent (simple)</strong></li></ul>
 <!-- /wp:list -->
 
-<!-- wp:heading {"level":4} -->
-<h4><strong>Pre-Data Analysis</strong></h4>
-<!-- /wp:heading -->
 
-<!-- wp:image {"id":460,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://vedantdave117com.files.wordpress.com/2019/12/predataanalysis.png?w=1024" alt="A screenshot of a cell phone
+### Pre-Data Analysis
 
-Description automatically generated" class="wp-image-460"/></figure>
-<!-- /wp:image -->
+![](https://github.com/vedantdave77/project.Bank_loan_trend_analysis-prediction-PowerBI/blob/master/Dashboard_Photos%20(Jan%2C01%2C2018)/Data_Pre-analysis.png)
 
-<!-- wp:heading {"level":4} -->
-<h4><strong>Analysis Feature Creation (Calculations)</strong></h4>
-<!-- /wp:heading -->
 
-<!-- wp:image {"id":461,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://vedantdave117com.files.wordpress.com/2019/12/analysis-feature-creation-calculations.png?w=1024" alt="A screen shot of a computer
+---
 
-Description automatically generated" class="wp-image-461"/></figure>
-<!-- /wp:image -->
+### Feature Creation
 
-<!-- wp:heading {"level":3} -->
-<h3><strong>Case 1: 15 years</strong></h3>
-<!-- /wp:heading -->
+![](https://github.com/vedantdave77/project.Bank_loan_trend_analysis-prediction-PowerBI/blob/master/Dashboard_Photos%20(Jan%2C01%2C2018)/Analysis_Feature_Creation%20(Calculation).png)
 
-<!-- wp:group {"backgroundColor":"very-light-gray"} -->
-<div class="wp-block-group has-very-light-gray-background-color has-background"><div class="wp-block-group__inner-container"><!-- wp:heading {"level":4} -->
-<h4><strong>Loan Data Analysis (forecasting – 15 years)</strong></h4>
-<!-- /wp:heading -->
+### Loan Forcasting 
 
-<!-- wp:image {"id":462,"sizeSlug":"large"} -->
-![](Dashboard_Photos (Jan,01,2018)/Loan_Data_Analysis (forecasting).png)
+### for, 15 years 
+![](https://github.com/vedantdave77/project.Bank_loan_trend_analysis-prediction-PowerBI/blob/master/Dashboard_Photos%20(Jan%2C01%2C2018)/Loan_Data_Analysis%20(forecasting).png)
 
-Description automatically generated" class="wp-image-462"/></figure>
-<!-- /wp:image -->
+### Loan Distribution Graph 
+### for, 15 years
+![](https://github.com/vedantdave77/project.Bank_loan_trend_analysis-prediction-PowerBI/blob/master/Dashboard_Photos%20(Jan%2C01%2C2018)/Loan_distribution_graph.png)
 
-<!-- wp:heading {"level":4} -->
-<h4><strong>Loan Distribution Graph (15 years)</strong></h4>
-<!-- /wp:heading -->
-
-<!-- wp:image {"id":463,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://vedantdave117com.files.wordpress.com/2019/12/loan-distribution-graph-15-years.png?w=1024" alt="A screenshot of a computer
-
-Description automatically generated" class="wp-image-463"/></figure>
-<!-- /wp:image --></div></div>
-<!-- /wp:group -->
-
-<!-- wp:heading {"level":3} -->
-<h3><strong>Case 2: 30 Years</strong></h3>
-<!-- /wp:heading -->
-
-<!-- wp:group {"backgroundColor":"very-light-gray"} -->
-<div class="wp-block-group has-very-light-gray-background-color has-background"><div class="wp-block-group__inner-container"><!-- wp:heading {"level":4} -->
-<h4><strong>Loan Data Analysis (forecasting – 30 years)</strong></h4>
-<!-- /wp:heading -->
-
-<!-- wp:image {"id":464,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://vedantdave117com.files.wordpress.com/2019/12/loan-data-analysis-forecasting_30-year.png?w=1024" alt="A screenshot of a cell phone
-
-Description automatically generated" class="wp-image-464"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":4} -->
-<h4><strong>Loan Distribution Graph (30 years)</strong></h4>
-<!-- /wp:heading -->
-
-<!-- wp:image {"id":465,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://vedantdave117com.files.wordpress.com/2019/12/loan-distribution-graph-30-years.png?w=1024" alt="A screenshot of a cell phone
-
-Description automatically generated" class="wp-image-465"/></figure>
-<!-- /wp:image --></div></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph {"textColor":"vivid-red"} -->
-<p class="has-text-color has-vivid-red-color">Thank you For reading. If you have any questions so plz contact me by email ... dave117@uwindsor.ca</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"vivid-red","backgroundColor":"luminous-vivid-amber"} -->
-<p class="has-text-color has-background has-vivid-red-color has-luminous-vivid-amber-background-color"><strong>Thank you for your appreciation. Have a Nice Day. Keep Learning.</strong></p>
-<!-- /wp:paragraph -->
+![]()
